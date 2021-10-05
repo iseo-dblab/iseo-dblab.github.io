@@ -130,6 +130,7 @@ publications:
        link: "https://dl.acm.org/doi/abs/10.1145/3183713.3196917?casa_token=4zbzXj_KQOcAAAAA:HfA8sFu8cz2F77YFOEY_el-kFF8r1nkmlo0WE0k9jcUH930HZlCJTrXwOiBcQawLziDHdCfond4"
        authors: *Kim K., *Seo I., Han W., Lee J., Hong S., Chafi H., Shin H., and Jeong G.  (* The first two authors contributed equally to this work.)
        conference: In Proc. 44th Int'l conf. on Management of Data, ACM SIGMOD, Huston, TX, USA, June 2018
+       
      - title: iTurboGraph: Scaling and Automating Incremental Graph Analytics
        link: "https://dl.acm.org/doi/abs/10.1145/3448016.3457243?casa_token=WS03rxVLDo4AAAAA:EHjF_BbUoCmSgVO6IhcnGGCWJfEbJRFhwwxTHeoiEmcGcYziX4vN1yyHEnzl_yIZwv48YGbtqws"
        authors: Ko, S., Lee, T., Hong, K., Lee, W., Seo, I., Seo, J., and Han, W.
