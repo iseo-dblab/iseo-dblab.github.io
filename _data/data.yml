@@ -135,7 +135,12 @@ publications:
        link: "https://dl.acm.org/doi/abs/10.1145/3448016.3457243?casa_token=WS03rxVLDo4AAAAA:EHjF_BbUoCmSgVO6IhcnGGCWJfEbJRFhwwxTHeoiEmcGcYziX4vN1yyHEnzl_yIZwv48YGbtqws"
        authors: Ko, S., Lee, T., Hong, K., Lee, W., Seo, I., Seo, J., and Han, W.
        conference: In Proc., 47th Int'l Conf. on Management of Data, ACM SIGMOD, Xian, Shaanxi, China, June 2021
-       
+
+     - title: "Learned Cardinality Estimation: An In-depth Study"
+#        link: "https://dl.acm.org/doi/abs/10.1145/3448016.3457243?casa_token=WS03rxVLDo4AAAAA:EHjF_BbUoCmSgVO6IhcnGGCWJfEbJRFhwwxTHeoiEmcGcYziX4vN1yyHEnzl_yIZwv48YGbtqws"
+       authors: Kim, K., Jeong, J., Seo, I., Han, W., Choi, K., and Chong, J.
+       conference: In Proc., 48th Int'l Conf. on Management of Data, ACM SIGMOD, Philadelphia, PA, USA, June 2022
+
        
 
 # skills:
